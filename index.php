@@ -6,7 +6,7 @@ define('BOT_TOKEN', '6017549203:AAHWxJAbW2uMN51-ub8665FhE9gFvQ2vkZw');
 define('CHAT_ID', '@eeeeetttuuu');
 
 // FTP server credentials
-$ftp_server = '10.0.0.97';
+$ftp_server = '172.10.10.1';
 $ftp_username = '55';
 $ftp_password = '55';
 $ftp_port = 21;
